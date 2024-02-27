@@ -1,4 +1,4 @@
-package com.karla.errores.springbooterrores;
+package com.karla.errores.springbooterrores.models;
 
 import java.util.Date;
 
